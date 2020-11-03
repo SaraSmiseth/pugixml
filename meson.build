@@ -1,3 +1,5 @@
+project('pugixml', 'cpp')
+
 pugixml_includes = include_directories('src')
 
 pugixml_sources = [
